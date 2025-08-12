@@ -1,0 +1,32 @@
+
+
+
+.logo {
+
+
+
+
+
+width: 16%;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-left: 350px;
+
+
+}
+
+
+.entrar {
+justify-content: center;
+    text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-right: auto;
+margin-left: auto;
+margin-left: -50px;
+
+transform: translateY(-20px);
+
+}
